@@ -4,6 +4,6 @@
 
 <div align="center">
 
-[Imagem Docker](https://exemplo.com/)
+[Imagem Docker](https://hub.docker.com/repository/docker/viniciusrcarvalho/codeeducation)
 
 </div>
